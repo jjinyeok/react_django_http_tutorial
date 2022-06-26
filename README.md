@@ -15,3 +15,4 @@ pip install djangorestframework # DRF 설치
 pip install django-cors-headers # CORS 방지
 django-admin startproject django_tutorial # Django 프로젝트 생성
 ```
+![image](https://user-images.githubusercontent.com/86935465/175817947-44073426-c70b-4c54-9d44-dab357356dd8.png)
