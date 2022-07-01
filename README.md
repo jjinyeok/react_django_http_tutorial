@@ -32,5 +32,5 @@ six==1.16.0
 sqlparse==0.4.2
 ```
 
-## Frontend와 Backend 
+## Frontend와 Backend 통신
 ![image](https://user-images.githubusercontent.com/86935465/175817947-44073426-c70b-4c54-9d44-dab357356dd8.png)
